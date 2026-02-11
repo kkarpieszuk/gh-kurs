@@ -54,7 +54,7 @@ git pull
 git pull --rebase
 ```
 
-*   rozwiązywanie konfliktuw przy scalaniu
+*   rozwiązywanie konfliktów przy scalaniu
 
 - podgladamy zmiany w plikach ktore maja konflikty
 ```
@@ -84,6 +84,8 @@ i potem zrobiic cokolwiek i potem znow sciagamy z polki
 ```
 git stash pop
 ```
+
+
 
 ## bonus jeśli starczy czasu (do wyboru lub punkt po punkcie póki starczy czasu):
 
