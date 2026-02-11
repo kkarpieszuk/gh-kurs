@@ -13,7 +13,7 @@
 
 * jak sklonować repozytorium
 * jak zrobić zmiany w kodzie i wyslac je na zdalne repozytorium
-* jak pobrać aktóalną wersję
+* jak pobrać aktualną wersję
 * sprawdzanie historii
 * przełączenie na historyczną wersję
 
@@ -28,7 +28,7 @@
 
 *   scalanie zmian od kilku programistów
 
-*   rozwiązywanie konfliktów przy scalaniu
+*   rozwiązywanie konfliktuw przy scalaniu
 
 *   praca kilku programistów na jednej gałęzi
 
