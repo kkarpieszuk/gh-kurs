@@ -1,4 +1,4 @@
-# Github dla początkujących 1 godzina
+# Github dla początkujących 2 godziny
 
 ## Uczestnicy
 
