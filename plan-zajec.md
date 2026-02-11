@@ -5,7 +5,7 @@
 - Konrad Karpieszuk - prowadzący...
 - Michał Majerski vel "Fin"
 - Alex Szram
-- Adrian Dudek
+- Adrian Dudek (inicjal D.)
 
 ## Założenia wstępne
 
