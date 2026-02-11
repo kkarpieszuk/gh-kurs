@@ -85,7 +85,9 @@ i potem zrobiic cokolwiek i potem znow sciagamy z polki
 git stash pop
 ```
 
+## git bissect
 
+[opis](https://dev.wpzlecenia.pl/2019/08/co-zrobic-gdy-twoj-kod-dzialal-ale-przestal-poznajcie-git-bisect/)
 
 ## bonus jeśli starczy czasu (do wyboru lub punkt po punkcie póki starczy czasu):
 
