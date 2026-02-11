@@ -101,4 +101,5 @@ git stash pop
 
 3.  tworzenie szablonów repozytoriów - przydatne gdy często zaczynamy projekty tak samo
 
+nowa linijka konrada
 TEREFERE od fina^^
