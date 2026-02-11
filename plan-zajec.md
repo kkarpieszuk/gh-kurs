@@ -100,3 +100,5 @@ git stash pop
 2.  jak znaleźć tego, kto napisał ten felerny kod
 
 3.  tworzenie szablonów repozytoriów - przydatne gdy często zaczynamy projekty tak samo
+
+Alex coś dodał
