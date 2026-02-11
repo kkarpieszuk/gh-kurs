@@ -4,7 +4,7 @@
 
 - Konrad Karpieszuk - prowadzący
 - Michał Majerski vel "Fin"
-- Alex
+- Alex Szram
 - Adrian
 
 ## Założenia wstępne
