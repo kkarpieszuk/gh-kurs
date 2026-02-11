@@ -2,7 +2,7 @@
 
 ## Uczestnicy
 
-- Konrad Karpieszuk - prowadzący
+- Konrad Karpieszuk - prowadzący...
 - Michał Majerski vel "Fin"
 - Alex Szram
 - Adrian
