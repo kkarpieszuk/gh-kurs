@@ -3,7 +3,7 @@
 ## Uczestnicy
 
 - Konrad Karpieszuk - prowadzący
-- Michał
+- Michał Majerski vel "Fin"
 - Alex
 - Adrian
 
