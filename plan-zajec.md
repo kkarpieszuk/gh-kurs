@@ -1,5 +1,12 @@
 # Github dla początkujących 1 godzina
 
+## Uczestnicy
+
+- Konrad Karpieszuk - prowadzący
+- Michał
+- Alex
+- Adrian
+
 ## Założenia wstępne
 
 *   Zakładamy, że git już jest zainstalowany lokalnie (wydaj polecenie `git -v` by sprawdzić, jeśli nie ma zainstaluj)
