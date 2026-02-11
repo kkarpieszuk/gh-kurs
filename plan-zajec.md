@@ -50,12 +50,40 @@ git pull
 
 *   scalanie zmian od kilku programistów
 
+```
+git pull --rebase
+```
+
 *   rozwiązywanie konfliktuw przy scalaniu
+
+- podgladamy zmiany w plikach ktore maja konflikty
+```
+git status # pokaze oba zmienione: nazwa_pliku...
+```
+
+- otwieramy taki plik do edycji i szukamy wystapien `<<<<<`
+- rozwiazujemy edytujac pliki
+- `git add nazwa_pliku` dla kazdego pliku, ktory juz ma rozwiazany konflikt
+- na koniec `git rebase --continue` (zapyta nas o nowa nazwe commitu)
+- i oczywiscie git push
 
 *   praca kilku programistów na jednej gałęzi
 
 *   co się stanie gdy utworzymy gałąź ze złej?
 
+## odkładanie na półkę
+
+jezeli jeszcze nie zattwierdzilem zmian w repo, to moge odlozyc je na polke
+
+```
+git stash
+```
+
+i potem zrobiic cokolwiek i potem znow sciagamy z polki
+
+```
+git stash pop
+```
 
 ## bonus jeśli starczy czasu (do wyboru lub punkt po punkcie póki starczy czasu):
 
